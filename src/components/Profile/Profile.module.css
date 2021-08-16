@@ -1,0 +1,38 @@
+.profile_container{
+  text-align: center;
+
+}
+
+.image img{
+  width: 150px;
+  margin: 0 auto;
+}
+
+.description{
+  margin-top: -1em;
+}
+
+.description h1 {
+  text-align: center;
+  font-weight: bold;
+}
+ 
+
+
+.description p{
+  margin-top: 7px;
+}
+
+p a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+
+}
+.description  p a span{
+  margin-top: -1em;
+  font-size: 1.3em;
+  position: relative;
+  top: .3em
+;
+}

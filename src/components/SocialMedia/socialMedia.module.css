@@ -1,0 +1,25 @@
+.SocialMedia{
+ margin-top: 30px;
+
+}
+
+.SocialMedia ul{
+  text-decoration: none;
+  margin-left:7.5em;
+}
+
+.SocialMedia li{
+  list-style: none;
+  padding: 3px 0;
+
+  
+}
+
+.SocialMedia li a span{
+  font-size: 1.4em;
+  color: black;
+}
+
+.SocialMedia li a:hover span{
+  color: rgba(29,161,242,1.00);
+}

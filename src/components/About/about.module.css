@@ -1,0 +1,17 @@
+.About{
+  width: 900px;
+  margin: auto;
+ 
+}
+.About_row{
+  margin-top: 9em;
+}
+
+.About_title{
+  font-weight: normal;
+  margin: 2em 0;
+  
+}
+.About_descr{
+  font-size: 20px;
+}
